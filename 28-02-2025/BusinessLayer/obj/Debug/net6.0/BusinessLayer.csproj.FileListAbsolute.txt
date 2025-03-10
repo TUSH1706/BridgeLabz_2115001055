@@ -1,0 +1,17 @@
+D:\Dotnet Framework\Assignment34\UserRegistration\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+D:\Dotnet Framework\Assignment34\UserRegistration\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+D:\Dotnet Framework\Assignment34\UserRegistration\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+D:\Dotnet Framework\Assignment34\UserRegistration\BusinessLayer\bin\Debug\net6.0\ModelLayer.dll
+D:\Dotnet Framework\Assignment34\UserRegistration\BusinessLayer\bin\Debug\net6.0\RepositoryLayer.dll
+D:\Dotnet Framework\Assignment34\UserRegistration\BusinessLayer\bin\Debug\net6.0\ModelLayer.pdb
+D:\Dotnet Framework\Assignment34\UserRegistration\BusinessLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+D:\Dotnet Framework\Assignment34\UserRegistration\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+D:\Dotnet Framework\Assignment34\UserRegistration\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment34\UserRegistration\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment34\UserRegistration\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment34\UserRegistration\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment34\UserRegistration\BusinessLayer\obj\Debug\net6.0\Business.EA331CBA.Up2Date
+D:\Dotnet Framework\Assignment34\UserRegistration\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+D:\Dotnet Framework\Assignment34\UserRegistration\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+D:\Dotnet Framework\Assignment34\UserRegistration\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+D:\Dotnet Framework\Assignment34\UserRegistration\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll

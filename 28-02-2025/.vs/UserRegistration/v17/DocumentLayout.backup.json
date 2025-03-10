@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dotnet Framework\\Assignment34\\UserRegistration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EF204F-6930-421E-9845-21A46674A5E1}|ModelLayer\\ModelLayer.csproj|d:\\dotnet framework\\assignment34\\userregistration\\modellayer\\dto\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EF204F-6930-421E-9845-21A46674A5E1}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\dto\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EF204F-6930-421E-9845-21A46674A5E1}|ModelLayer\\ModelLayer.csproj|d:\\dotnet framework\\assignment34\\userregistration\\modellayer\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EF204F-6930-421E-9845-21A46674A5E1}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05A374D-CB79-4429-AA0D-5DB8984F7E8B}|RepositoryLayer\\RepositoryLayer.csproj|d:\\dotnet framework\\assignment34\\userregistration\\repositorylayer\\service\\userregistrationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05A374D-CB79-4429-AA0D-5DB8984F7E8B}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\service\\userregistrationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{124EA9D7-CD17-420B-987F-058B94100191}|BusinessLayer\\BusinessLayer.csproj|d:\\dotnet framework\\assignment34\\userregistration\\businesslayer\\service\\userregistrationbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{124EA9D7-CD17-420B-987F-058B94100191}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\service\\userregistrationbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF808B01-4268-44D5-A670-2CEA5A94694C}|UserRegistration\\UserRegistration.csproj|d:\\dotnet framework\\assignment34\\userregistration\\userregistration\\controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF808B01-4268-44D5-A670-2CEA5A94694C}|UserRegistration\\UserRegistration.csproj|solutionrelative:userregistration\\controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF808B01-4268-44D5-A670-2CEA5A94694C}|UserRegistration\\UserRegistration.csproj|d:\\dotnet framework\\assignment34\\userregistration\\userregistration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF808B01-4268-44D5-A670-2CEA5A94694C}|UserRegistration\\UserRegistration.csproj|solutionrelative:userregistration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dotnet Framework\\Assignment34\\UserRegistration\\UserRegistration\\Program.cs",
+              "RelativeDocumentMoniker": "UserRegistration\\Program.cs",
+              "ToolTip": "D:\\Dotnet Framework\\Assignment34\\UserRegistration\\UserRegistration\\Program.cs",
+              "RelativeToolTip": "UserRegistration\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T13:53:52.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "D:\\Dotnet Framework\\Assignment34\\UserRegistration\\ModelLayer\\DTO\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\DTO\\ResponseModel.cs",
+              "ToolTip": "D:\\Dotnet Framework\\Assignment34\\UserRegistration\\ModelLayer\\DTO\\ResponseModel.cs",
+              "RelativeToolTip": "ModelLayer\\DTO\\ResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T13:27:05.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "D:\\Dotnet Framework\\Assignment34\\UserRegistration\\ModelLayer\\DTO\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\DTO\\RegisterDTO.cs",
+              "ToolTip": "D:\\Dotnet Framework\\Assignment34\\UserRegistration\\ModelLayer\\DTO\\RegisterDTO.cs",
+              "RelativeToolTip": "ModelLayer\\DTO\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T13:25:41.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRegistrationController.cs",
+              "DocumentMoniker": "D:\\Dotnet Framework\\Assignment34\\UserRegistration\\UserRegistration\\Controllers\\UserRegistrationController.cs",
+              "RelativeDocumentMoniker": "UserRegistration\\Controllers\\UserRegistrationController.cs",
+              "ToolTip": "D:\\Dotnet Framework\\Assignment34\\UserRegistration\\UserRegistration\\Controllers\\UserRegistrationController.cs",
+              "RelativeToolTip": "UserRegistration\\Controllers\\UserRegistrationController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T13:24:12.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRegistrationRL.cs",
+              "DocumentMoniker": "D:\\Dotnet Framework\\Assignment34\\UserRegistration\\RepositoryLayer\\Service\\UserRegistrationRL.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Service\\UserRegistrationRL.cs",
+              "ToolTip": "D:\\Dotnet Framework\\Assignment34\\UserRegistration\\RepositoryLayer\\Service\\UserRegistrationRL.cs",
+              "RelativeToolTip": "RepositoryLayer\\Service\\UserRegistrationRL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T13:23:00.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRegistrationBL.cs",
+              "DocumentMoniker": "D:\\Dotnet Framework\\Assignment34\\UserRegistration\\BusinessLayer\\Service\\UserRegistrationBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Service\\UserRegistrationBL.cs",
+              "ToolTip": "D:\\Dotnet Framework\\Assignment34\\UserRegistration\\BusinessLayer\\Service\\UserRegistrationBL.cs",
+              "RelativeToolTip": "BusinessLayer\\Service\\UserRegistrationBL.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T13:21:31.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
